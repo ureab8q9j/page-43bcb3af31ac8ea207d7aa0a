@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "13d4c6ca64dfe48d18d1061b",
+  "owner": "ureab8q9j",
+  "repo": "page-43bcb3af31ac8ea207d7aa0a",
+  "title": "机场测评",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "43bcb3af31ac8ea207d7aa0a",
+      "a": "机场测评",
+      "b": "",
+      "entity": "机场测评",
+      "brand": "机场测评",
+      "separator": "",
+      "path": "index.html",
+      "hash": "65edbdd590f6aa937656a880397da6633dc2fd79d7052fb9d91394866311a2ec",
+      "content": {
+        "keyword1": "机场测评",
+        "keyword2": "",
+        "primary_entity": "机场测评",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场测评为您提供专业的VPN和机场服务测评报告、订阅指南及客户端下载，帮助用户选择稳定套餐享受高速加速",
+          "AI_DESCRIPTION": "机场测评为您提供专业的VPN和机场服务测评报告、订阅指南及客户端下载，帮助用户选择稳定套餐享受高速加速"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --gray: #f5f5f5;\n            --purple: #6b46c1;\n        }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            line-height: 1.6;\n            color: #333;\n            background-color: var(--gray);\n            margin: 0;\n            padding: 0;\n        }\n        main {\n            max-width: 1100px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n        h1 {\n            color: var(--purple);\n            font-size: 2.5em;\n            text-align: center;\n            margin-bottom: 30px;\n        }\n        .two-column {\n            display: grid;\n            grid-template-columns: 1fr 1fr;\n            gap: 30px;\n            margin-bottom: 40px;\n        }\n        .column {\n            background: white;\n            padding: 25px;\n            border-radius: 8px;\n            box-shadow: 0 2px 10px rgba(0,0,0,0.05);\n        }\n        .plans-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 20px;\n            margin: 30px 0;\n        }\n        .plan-card {\n            border: 2px solid #e0e0e0;\n            border-radius: 8px;\n            padding: 20px;\n            transition: transform 0.3s;\n        }\n        .plan-card:hover {\n            transform: translateY(-5px);\n        }\n        .plan-card.featured {\n            border-color: var(--purple);\n            background: #f8f4ff;\n        }\n        .plan-name {\n            font-size: 1.5em;\n            color: var(--purple);\n            margin-bottom: 10px;\n        }\n        .price {\n            font-size: 1.2em;\n            color: #555;\n            margin-bottom: 15px;\n        }\n        .annual {\n            color: #888;\n            font-size: 0.9em;\n        }\n        .features {\n            list-style: none;\n            padding: 0;\n        }\n        .features li {\n            padding: 8px 0;\n            border-bottom: 1px solid #eee;\n        }\n        .features li:before {\n            content: \"✓\";\n            color: var(--purple);\n            margin-right: 8px;\n        }\n        details {\n            margin-bottom: 15px;\n            background: white;\n            border-radius: 6px;\n            overflow: hidden;\n            box-shadow: 0 2px 5px rgba(0,0,0,0.05);\n        }\n        summary {\n            font-weight: bold;\n            padding: 15px;\n            cursor: pointer;\n            background: #f9f9f9;\n            border-bottom: 1px solid #eee;\n        }\n        summary:hover {\n            background: #f0f0f0;\n        }\n        .faq-section {\n            background: white;\n            padding: 25px;\n            border-radius: 8px;\n            box-shadow: 0 2px 10px rgba(0,0,0,0.05);\n        }\n        footer {\n            text-align: center;\n            padding: 20px;\n            color: #777;\n            font-size: 0.9em;\n        }\n        @media (max-width: 768px) {\n            .two-column {\n                grid-template-columns: 1fr;\n            }\n            h1 {\n                font-size: 2em;\n            }\n        }\n    </style>\n\n\n    <main>\n        <h1>机场测评</h1>\n        <div class=\"two-column\">\n            <div class=\"column\">\n                <h2>品牌简介</h2>\n                <p>机场测评是一个专注于提供真实VPN和机场服务测评的平台。我们通过严格测试，为用户推荐最稳定可靠的机场节点和订阅方案。无论您是追求流媒体解锁、游戏加速，还是隐私保护，都能在这里找到适合的方案。</p>\n                <h3>使用场景</h3>\n                <ul>\n                    <li>解锁Netflix、Disney+、YouTube 等国际流媒体平台</li>\n                    <li>在线游戏加速，降低延迟，提升游戏体验</li>\n                    <li>保护网络隐私，确保浏览安全</li>\n                    <li>支持多设备同时在线，家庭或团队使用</li>\n                </ul>\n            </div>\n            <div class=\"column\">\n                <h2>套餐选择</h2>\n                <div class=\"plans-grid\">\n                    <div class=\"plan-card\">\n                        <div class=\"plan-name\">基础版</div>\n                        <div class=\"price\">¥15/月 <span class=\"annual\">按年付仅需 ¥150/年</span></div>\n                        <ul class=\"features\">\n                            <li>每月 100GB 极速流量</li>\n                            <li>支持 3 台设备同时在线</li>\n                            <li>解锁基础流媒体</li>\n                            <li>普通线路节点池</li>\n                        </ul>\n                    </div>\n                    <div class=\"plan-card featured\">\n                        <div class=\"plan-name\">旗舰版</div>\n                        <div class=\"price\">¥35/月 <span class=\"annual\">按年付仅需 ¥350/年</span></div>\n                        <ul class=\"features\">\n                            <li>每月 300GB 极速流量</li>\n                            <li>支持 5 台设备同时在线</li>\n                            <li>全节点原生流媒体解锁</li>\n                            <li>IPLC 专线游戏加速优化</li>\n                            <li>7x24 优先工单支持</li>\n                        </ul>\n                    </div>\n                    <div class=\"plan-card\">\n                        <div class=\"plan-name\">团队版</div>\n                        <div class=\"price\">¥85/月 <span class=\"annual\">按年付仅需 ¥850/年</span></div>\n                        <ul class=\"features\">\n                            <li>每月 1000GB 极速流量</li>\n                            <li>支持 20 台设备同时在线</li>\n                            <li>VIP 专属高带宽节点</li>\n                            <li>支持企业定制路由</li>\n                            <li>专属客户经理服务</li>\n                        </ul>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <h2>操作说明</h2>\n        <ol>\n            <li>访问官网选择适合您的套餐进行订阅支付</li>\n            <li>支付成功后登录个人中心获取订阅链接</li>\n            <li>下载并安装官方客户端</li>\n            <li>导入节点信息连接服务器</li>\n        </ol>\n        <div class=\"faq-section\">\n            <h2>常见问题 FAQ</h2>\n            <details>\n                <summary>什么是机场测评？</summary>\n                <p>机场测评是一个专业的VPN加速器和机场订阅服务平台，通过真实测评为用户提供可靠的网络加速和隐私保护方案。</p>\n            </details>\n            <details>\n                <summary>基础版套餐主要包含哪些内容？</summary>\n                <p>每月 100GB 极速流量，支持 3 台设备同时在线，解锁基础流媒体，普通线路节点池。</p>\n            </details>\n            <details>\n                <summary>旗舰版与基础版有哪些区别？</summary>\n                <p>旗舰版流量更多，支持更多设备，提供IPLC专线优化，优先客服支持，并解锁全节点流媒体。</p>\n            </details>\n            <details>\n                <summary>如何下载客户端？</summary>\n                <p>请访问官网下载官方客户端，按照安装向导完成安装后，导入您的订阅链接即可使用。</p>\n            </details>\n            <details>\n                <summary>支持哪些设备和平台？</summary>\n                <p>支持 Windows、macOS、iOS、Android 及更多主流设备，团队版支持更多同时在线设备。</p>\n            </details>\n        </div>\n        <section>\n            <h2>网站地图</h2>\n            <ul>\n                <li><a href=\"#\">首页</a></li>\n                <li><a href=\"#套餐\">套餐选择</a></li>\n                <li><a href=\"#faq\">常见问题</a></li>\n            </ul>\n        </section>\n        <section>\n            <h2>友情链接</h2>\n            <p><a href=\"#\">机场测评</a> | <a href=\"#\">VPN加速</a> | <a href=\"#\">机场订阅</a></p>\n        </section>\n        <section>\n            <h2>广告位</h2>\n            <p>欢迎联系广告合作</p>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "df27c49e1c36dbdaf6457dfaeed1137dc80ba5c72298564e2c43698924024792",
+          "seo": {
+            "title": "机场测评 - 专业VPN测评报告与机场订阅指南",
+            "keywords": "机场测评, VPN测评, 机场订阅, 客户端下载, VPN加速器, 机场测评报告",
+            "description": "机场测评为您提供专业的VPN和机场服务测评报告、订阅指南及客户端下载，帮助用户选择稳定套餐享受高速加速"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shanhuakj.com",
+    "host": "p-6964440690.shanhuakj.com",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "5cd78a0b87c301b8a6fea8d0d3a918e2a8e76cf15790879b5b5550098abd7f44",
+    "sitemap.xml": "ec19208874ef35f98c522799327ccf6ede935f0f22edd287397e249c2066c767",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c867b71c8cea5a6a015e0c02a4b89463a476421730e8ebd8ff2dcc5e758e8eb5",
+    "robots.txt": "186d99340d3b9f69002f680d3fb4596df674a9e898b24b0456d1b98d8755b47c",
+    "72a3a38d4721b541bcf106d96864b0db.txt": "eac446cc11465a5c04cf94b69b4c8dae3bf83c459453b7740ef0ea8341ba70dd"
+  },
+  "revision": "f70c47b1e62da601d5325772d13103470bb86c36f0c97edda34d8762bd8217c8"
+}
